@@ -197,3 +197,28 @@ margin-bottom: 20px;
 .resume-des-p{
 color: #757575;
 }
+/* contract */
+.contract{
+background: #FFF8F3;
+display: flex;
+gap: 100px;
+padding: 130px 199px;
+}
+.contract-area.section-title{
+    text-align: left;
+}
+.contract-area .section-description{
+margin-bottom: 20px;
+}
+.contract-area a{
+text-decoration: none;
+}
+.form-area form input[type="text"],[type="email"],textarea{
+margin-bottom: 25px;
+border: 0;
+width: 100%;
+padding:18px 30px ;
+}
+input{
+    height: 48px;
+}
